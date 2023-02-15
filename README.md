@@ -26,7 +26,7 @@ npm install -D tailwindcss postcss autoprefixer
 {
   "semi": false,
   "singleQuote": true,
-  "jsxSingleQuote": false,
+  "jsxSingleQuote": true,
   "trailingComma": "none"
 }
 ```
@@ -43,6 +43,14 @@ npm install -D tailwindcss postcss autoprefixer
 }
 ```
 
+### Edit tailwind.config.js and add './src/**/*.{js,ts,jsx,tsx}' to content array
+
+### Add to .css
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
 
 
 ## Default Docs
