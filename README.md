@@ -1,4 +1,4 @@
-# Project for understand nextjs concepts
+# Template Project nextjs with Tailwind
 
 ## Steps for create basic template
 
