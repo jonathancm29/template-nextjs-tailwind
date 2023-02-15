@@ -1,3 +1,19 @@
+# Project for understand nextjs concepts
+
+## Steps for create basic template
+
+### Create App
+```bash
+npx create-next-app@latest
+```
+
+### Install Standard and eslinkt in Development Dependencies
+```bash
+npm install standard prettier -D
+```
+
+## Default Docs
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
