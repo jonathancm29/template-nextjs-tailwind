@@ -21,6 +21,28 @@ npm install -D tailwindcss postcss autoprefixer
  npx tailwind init -p
  ```
 
+### create file .prettierrc.json in root folder with following code
+```json
+{
+  "semi": false,
+  "singleQuote": true,
+  "jsxSingleQuote": false,
+  "trailingComma": "none"
+}
+```
+ 
+
+ ### add standard to eslint config, open .eslintrc.json and add "./node_modules/standard/eslintrc.json" to extends array
+
+ ```json
+ {
+  "extends": [
+    "next/core-web-vitals",
+    "./node_modules/standard/eslintrc.json"
+  ]
+}
+```
+
 
 
 ## Default Docs
