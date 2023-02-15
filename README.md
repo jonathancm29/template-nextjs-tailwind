@@ -7,7 +7,7 @@
 npx create-next-app@latest
 ```
 
-### Install Standard and eslinkt in Development Dependencies
+### Install Standard and prettier in Development Dependencies
 ```bash
 npm install standard prettier -D
 ```
