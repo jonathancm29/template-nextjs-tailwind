@@ -16,6 +16,11 @@ npm install standard prettier -D
 npm install -D tailwindcss postcss autoprefixer
 ```
 
+### Init Tailwindcss 
+```bash
+ npx tailwind init -p
+ ```
+
 
 
 ## Default Docs
