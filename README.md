@@ -11,6 +11,12 @@ npx create-next-app@latest
 ```bash
 npm install standard prettier -D
 ```
+### Install tailwindcss postcss autoprefixer
+```bash
+npm install -D tailwindcss postcss autoprefixer
+```
+
+
 
 ## Default Docs
 
